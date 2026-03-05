@@ -1,1 +1,2 @@
 Örnek bir metin
+örnek bir dosyası satır 2 
